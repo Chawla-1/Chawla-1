@@ -16,11 +16,11 @@
 
 ### 👋 About Me
 
-- 🎓 B.Tech Computer Science (AI & ML Specialisation) @ **Bennett University** — CGPA 9.12
+- 🎓 B.Tech Computer Science (AI & ML Specialisation) @ **Bennett University** — CGPA 8.91
 - 🧠 I build end-to-end ML systems — from ranking pipelines and computer vision to NLP and recommendation engines
 - 🏆 Runner-Up @ Hackaccino Hackathon · Top 10/250+ @ Microsoft Innovate Hackathon · National Qualifier @ SIH 2025
 - 🎯 Currently Head, Strategic Intelligence Department @ Dean's Career Cloud, Bennett University
-- 💡 250+ problems solved on LeetCode & HackerRank
+- 💡 350+ problems solved on LeetCode & HackerRank
 - 📫 Reach me at **chawlaaaryan22@gmail.com**
 
 ---
