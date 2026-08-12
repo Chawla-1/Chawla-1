@@ -110,19 +110,6 @@ NLP-based medical symptom classifier with a Flask backend for diagnosis mapping 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chawla-1&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chawla-1&layout=compact&hide_border=true&title_color=1F3864&text_color=333333" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chawla-1&hide_border=true&background=FFFFFF&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" />
-
-</div>
-
----
-
 ### 🏆 Achievements & Certifications
 
 - 🥈 Runner-Up — Hackaccino Hackathon (Team XLR8)
