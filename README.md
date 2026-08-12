@@ -108,8 +108,6 @@ NLP-based medical symptom classifier with a Flask backend for diagnosis mapping 
 </tr>
 </table>
 
-> 🔗 Swap the `#` links above for your actual repo URLs once they're public.
-
 ---
 
 ### 📊 GitHub Stats
