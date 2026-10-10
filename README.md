@@ -10,7 +10,6 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chawlaaaryan22@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aaryan_chawla/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/XLR8_coder)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/much_whale_82)
 
 </div>
 
@@ -35,7 +34,6 @@
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -114,26 +112,6 @@ Real-time ASL interpreter — a 3-layer LSTM over MediaPipe Holistic keypoints r
 Multi-stage candidate ranking pipeline — shortlists top-100 from 100K profiles using semantic retrieval (FAISS + Sentence-Transformers) and a RandomForest fraud-detection layer.
 <br>
 `Python` `Scikit-learn` `Sentence-Transformers` `FAISS`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🧭 [Internship Recommender System](#)** — *SIH 2025*
-<br>
-Hybrid recommendation engine matching candidates to 15,000+ internships via semantic + geolocation filtering. Deployed as a full-stack Flask app.
-<br>
-`Python` `Flask` `PyTorch` `Geopy`
-
-</td>
-<td width="50%">
-
-**🩺 [Swasthik AI](#)**
-<br>
-NLP-based medical symptom classifier with a Flask backend for diagnosis mapping and automated PDF report generation.
-<br>
-`Python` `NLP` `Scikit-learn` `Flask`
 
 </td>
 </tr>
