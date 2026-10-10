@@ -62,7 +62,6 @@ Every entry below is something I built from scratch in a weekend.
 
 | When | Event | Result | What I shipped |
 |---|---|---|---|
-| 2025 | Microsoft Innovate Hackathon | 🏅 Top 10 / 250+ teams | RAG chatbot assistant for a university's website |
 | Apr 2026 | Hackaccino | 🥈 Runner-Up | SignBridge — real-time ASL interpreter |
 | Sept 2026 | Smart BU Hackathon | 🥈 Rank 2 / 591 teams | IBVAP — border video analytics platform |
 | Oct 2026 | Microsoft Innovate Hackathon | 🥇 Winner / 500+ teams | FeedbackXLR8 — app review intelligence |
