@@ -1,139 +1,108 @@
-<div align="center">
+<h1 align="center">Hi, I'm Aaryan Chawla 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=32&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aaryan+Chawla;AI%2FML+%7C+Computer+Science+Undergrad;Building+ML+systems+that+ship" alt="Typing SVG" />
+<p align="center">
+  <b>AI/ML Engineer</b> • <b>Computer Vision / NLP / Real-Time ML</b><br>
+  B.Tech CSE (AI & ML) @ Bennett University • 3× Hackathon Podium • 500+ problems solved
+</p>
 
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryan-chawla-)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chawlaaaryan22@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aaryan_chawla/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/XLR8_coder)
-
-</div>
-
----
-
-### 👋 About Me
-
-- 🎓 B.Tech Computer Science (AI & ML Specialisation) @ **Bennett University** (2024 – 2028) — CGPA 8.91
-- 🧠 I build end-to-end ML systems — from computer vision and NLP to ranking pipelines and recommendation engines
-- 🏆 Winner @ Microsoft Innovate Hackathon 2026 (500+ teams) · Rank 2 @ Smart BU Hackathon (591 teams) · Runner-Up @ Hackaccino Hackathon
-- 🎯 Currently Head, Strategic Intelligence Department @ Dean's Career Cloud, Bennett University
-- 💡 500+ coding problems solved across LeetCode, Codeforces and CodeChef
-- 📫 Reach me at **chawlaaaryan22@gmail.com**
+<p align="center">
+  <a href="https://linkedin.com/in/aaryan-chawla-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/aaryan_chawla/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://codeforces.com/profile/XLR8_coder"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="https://www.codechef.com/users/much_whale_82"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"></a>
+  <a href="mailto:chawlaaaryan22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Chawla-1&color=1F3864&style=flat&label=Profile+Views" alt="views">
+  <a href="https://github.com/Chawla-1?tab=followers"><img src="https://img.shields.io/github/followers/Chawla-1?style=flat&logo=github&label=Followers&color=1F3864" alt="followers"></a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-<div align="center">
+I build ML systems that go past the notebook — real-time video analytics, NLP pipelines and
+recommendation engines, wrapped in **FastAPI / Flask** services and shipped with **Docker**.
+Most of my projects started as hackathon problems and ended up on a podium.
 
-**Languages**
+- 👁️ Computer vision on live feeds: detection, tracking, OCR and threat scoring
+- 💬 NLP that turns raw text into decisions: embeddings, clustering, sentiment
+- 🎯 Head, Strategic Intelligence Department @ Dean's Career Cloud, Bennett University
+- 🧩 500+ DSA problems across LeetCode, Codeforces and CodeChef
+
+## 🧬 Profile, as code
+
+```python
+aaryan = {
+    "role":       "AI/ML Engineer (student)",
+    "team":       "XLR8",
+    "builds":     ["video analytics", "NLP pipelines", "real-time ML", "recommenders"],
+    "ships_with": ["FastAPI", "Flask", "Docker", "Streamlit"],
+    "core_cs":    ["DSA", "OOP", "DBMS", "Computer Networks", "Operating Systems"],
+    "track_record": {"hackathons_won": 1, "runner_up": 2, "teams_beaten": "500+"},
+}
+```
+
+## 🛠️ Tech Stack
+
+```text
+Languages   Python · C++ · SQL · HTML5 · CSS3
+AI / ML     PyTorch · TensorFlow · Scikit-learn · OpenCV · MediaPipe · Sentence-Transformers · NumPy · Pandas
+Backend     FastAPI · Flask · REST (Postman) · Docker · n8n
+Databases   MySQL · MongoDB
+Tools       Git · GitHub · Jupyter · Google Colab
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,mysql,mongodb,git,github,postman,jupyter&perline=8" alt="skills">
+</p>
+
+## 🏁 Hackathon Log
+
+Every entry below is something I built from scratch in a weekend.
+
+| When | Event | Result | What I shipped |
+|---|---|---|---|
+| Apr 2026 | Hackaccino | 🥈 Runner-Up | SignBridge — real-time ASL interpreter |
+| Sept 2026 | Smart BU Hackathon | 🥈 Rank 2 / 591 teams | IBVAP — border video analytics platform |
+| Oct 2026 | Microsoft Innovate Hackathon | 🥇 Winner / 500+ teams | FeedbackXLR8 — app review intelligence |
+
+## 🔥 Featured Projects
+
+| Project | Stack | The problem → what I built |
+|---|---|---|
+| **IBVAP** | YOLO11, ByteTrack, EasyOCR, FastAPI, Docker | Existing CCTV feeds miss border threats → real-time detection of fence crossings, weapons, infiltrators and watchlist vehicles, with an explainable 0–100 threat score and tamper-evident alerts on Ethereum |
+| [**FeedbackXLR8**](https://github.com/Chawla-1/FeedbackXLR8) | Sentence-Transformers, DistilBERT, DBSCAN, Streamlit | Thousands of app reviews, no priorities → clusters themes, scores sentiment (68.7% accuracy) and exports Jira-ready tickets; 10,000 reviews in under 2 min on CPU |
+| [**SignBridge**](https://github.com/Chawla-1/Sign-Bridge) | TensorFlow, LSTM, MediaPipe, OpenCV, FLAN-T5 | Sign language needs a human interpreter → 3-layer LSTM over keypoints recognising 45+ signs, turned into fluent English by FLAN-T5 |
+
+<details>
+<summary><b>Earlier work</b></summary>
 <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**AI / ML**
-<br>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+- **TalentRankAI** — shortlists the top-100 from 100K profiles with FAISS semantic retrieval + a RandomForest fraud layer
+- **Internship Recommender System** (SIH 2025) — matches candidates to 15,000+ internships with semantic + geolocation filtering, as a Flask app
+- **Swasthik AI** — NLP symptom classifier with a Flask backend and automated PDF reports
 
-**Backend & Tools**
-<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+</details>
 
-**Databases**
-<br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+## 💼 Experience
 
-**Core CS**
-<br>
-Data Structures & Algorithms · OOP · DBMS · Computer Networks · Operating Systems
+- **Dean's Career Cloud, Bennett University** — *Head, Strategic Intelligence Department* (Jun 2026 – Present): lead strategy and data-driven decisions, turning student engagement trends into event and outreach plans.
+- **Dean's Career Cloud, Bennett University** — *Senior Executive* (Feb 2026 – May 2026): organised 3 flagship career events and ran end-to-end logistics for an Amazon speaker session.
 
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chawla-1&theme=tokyonight" alt="repos per language">
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chawla-1&theme=tokyonight" alt="most used language">
+</p>
+
+## 🏆 Highlights
+
+- 🥇 **Microsoft Innovate Hackathon 2026 Winner** — 500+ teams
+- 🥈 **Smart BU Hackathon Rank 2** — 591 teams · **Hackaccino Runner-Up**
+- 🎖️ **SIH 2025 National Qualifier** — Rank 54, BU internal round
+- 📜 DSA and ML with Python (Infosys Springboard) · Modern Database Systems (Saylor Academy)
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🛡️ IBVAP — Intelligent Border Video Analytics Platform** · *Smart BU Hackathon Runner-Up*
-<br>
-Turns existing CCTV/RTSP feeds into real-time border surveillance — detects fence crossings, weapons, crawling infiltrators and watchlist vehicles with YOLO11 + ByteTrack, scores threats 0–100, and anchors critical alerts on an Ethereum smart contract for tamper-evident audit trails.
-<br>
-`Python` `YOLO11` `ByteTrack` `EasyOCR` `OpenCV` `FastAPI` `Docker`
-
-</td>
-<td width="50%">
-
-**💬 [FeedbackXLR8](https://github.com/Chawla-1/FeedbackXLR8)** — *Microsoft Innovate Hackathon Winner*
-<br>
-App review intelligence platform — clusters themes with semantic embeddings, runs a hybrid DistilBERT sentiment engine (68.7% accuracy, +16.3 pts over a rating-only baseline), and exports Jira-ready tickets. Processes 10,000 reviews in under 2 minutes on CPU.
-<br>
-`Python` `Streamlit` `Sentence-Transformers` `DistilBERT` `DBSCAN`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🤟 [SignBridge](https://github.com/Chawla-1/Sign-Bridge)** — *Hackaccino Hackathon Runner-Up*
-<br>
-Real-time ASL interpreter — a 3-layer LSTM over MediaPipe Holistic keypoints recognizing 45+ signs, with FLAN-T5 grammar correction to turn signs into fluent English sentences.
-<br>
-`Python` `TensorFlow` `LSTM` `MediaPipe` `OpenCV`
-
-</td>
-<td width="50%">
-
-**🎯 [TalentRankAI](#)**
-<br>
-Multi-stage candidate ranking pipeline — shortlists top-100 from 100K profiles using semantic retrieval (FAISS + Sentence-Transformers) and a RandomForest fraud-detection layer.
-<br>
-`Python` `Scikit-learn` `Sentence-Transformers` `FAISS`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🏆 Achievements & Certifications
-
-- 🥇 Winner — Microsoft Innovate Hackathon 2026, 500+ teams (Team XLR8)
-- 🥈 Rank 2 / 591 Teams — Smart BU Hackathon (Team XLR8)
-- 🥈 Runner-Up — Hackaccino Hackathon (Team XLR8)
-- 🎖️ SIH 2025 National Qualifier — Rank 54, BU Internal Round
-- 📜 DSA and Machine Learning with Python — Infosys Springboard
-- 📜 Modern Database Systems — Saylor Academy
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Chawla-1&color=1F3864&style=flat-square&label=Profile+Views)
-
-*Let's connect and build something interesting together!*
-
-</div>
+<p align="center"><i>⚡ "Training a model is the easy part. Shipping it is the project."</i></p>
