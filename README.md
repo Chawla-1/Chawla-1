@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI/ML Engineer</b> • <b>Computer Vision / NLP / Real-Time ML</b><br>
-  B.Tech CSE (AI & ML) @ Bennett University • 3× Hackathon Podium • 500+ problems solved
+  B.Tech CSE (AI & ML) @ Bennett University • Winner @ Microsoft Innovate'26 • 2x Hackathon Runner-up • 500+ problems solved
 </p>
 
 <p align="center">
