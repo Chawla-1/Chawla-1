@@ -35,10 +35,10 @@ Most of my projects started as hackathon problems and ended up on a podium.
 aaryan = {
     "role":       "AI/ML Engineer (student)",
     "team":       "XLR8",
-    "builds":     ["video analytics", "NLP pipelines", "real-time ML", "recommenders"],
+    "builds":     ["video analytics", "NLP pipelines", "RAG chatbots", "real-time ML", "recommenders"],
     "ships_with": ["FastAPI", "Flask", "Docker", "Streamlit"],
     "core_cs":    ["DSA", "OOP", "DBMS", "Computer Networks", "Operating Systems"],
-    "track_record": {"hackathons_won": 1, "runner_up": 2, "teams_beaten": "500+"},
+    "track_record": {"won": 1, "runner_up": 2, "top_10": 1, "teams_beaten": "500+"},
 }
 ```
 
@@ -62,6 +62,7 @@ Every entry below is something I built from scratch in a weekend.
 
 | When | Event | Result | What I shipped |
 |---|---|---|---|
+| 2025 | Microsoft Innovate Hackathon | 🏅 Top 10 / 250+ teams | RAG chatbot assistant for a university's website |
 | Apr 2026 | Hackaccino | 🥈 Runner-Up | SignBridge — real-time ASL interpreter |
 | Sept 2026 | Smart BU Hackathon | 🥈 Rank 2 / 591 teams | IBVAP — border video analytics platform |
 | Oct 2026 | Microsoft Innovate Hackathon | 🥇 Winner / 500+ teams | FeedbackXLR8 — app review intelligence |
@@ -73,12 +74,12 @@ Every entry below is something I built from scratch in a weekend.
 | **IBVAP** | YOLO11, ByteTrack, EasyOCR, FastAPI, Docker | Existing CCTV feeds miss border threats → real-time detection of fence crossings, weapons, infiltrators and watchlist vehicles, with an explainable 0–100 threat score and tamper-evident alerts on Ethereum |
 | [**FeedbackXLR8**](https://github.com/Chawla-1/FeedbackXLR8) | Sentence-Transformers, DistilBERT, DBSCAN, Streamlit | Thousands of app reviews, no priorities → clusters themes, scores sentiment (68.7% accuracy) and exports Jira-ready tickets; 10,000 reviews in under 2 min on CPU |
 | [**SignBridge**](https://github.com/Chawla-1/Sign-Bridge) | TensorFlow, LSTM, MediaPipe, OpenCV, FLAN-T5 | Sign language needs a human interpreter → 3-layer LSTM over keypoints recognising 45+ signs, turned into fluent English by FLAN-T5 |
+| [**TalentRankAI**](https://github.com/Chawla-1/TalentRankAI) | FAISS, Sentence-Transformers, Scikit-learn, RandomForest | Too many profiles to screen by hand → multi-stage ranking pipeline that shortlists the top-100 from 100K profiles with semantic retrieval and a fraud-detection layer |
 
 <details>
 <summary><b>Earlier work</b></summary>
 <br>
 
-- **TalentRankAI** — shortlists the top-100 from 100K profiles with FAISS semantic retrieval + a RandomForest fraud layer
 - **Internship Recommender System** (SIH 2025) — matches candidates to 15,000+ internships with semantic + geolocation filtering, as a Flask app
 - **Swasthik AI** — NLP symptom classifier with a Flask backend and automated PDF reports
 
@@ -95,10 +96,17 @@ Every entry below is something I built from scratch in a weekend.
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chawla-1&theme=tokyonight" alt="repos per language">
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chawla-1&theme=tokyonight" alt="most used language">
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chawla-1&hide_border=true&theme=tokyonight" alt="streak">
+</p>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chawla-1&theme=tokyo-night&hide_border=true&area=true" alt="activity graph">
+</p>
 
 ## 🏆 Highlights
 
 - 🥇 **Microsoft Innovate Hackathon 2026 Winner** — 500+ teams
+- 🏅 **Microsoft Innovate Hackathon 2025 Top 10** — 250+ teams, shipped a RAG chatbot assistant
 - 🥈 **Smart BU Hackathon Rank 2** — 591 teams · **Hackaccino Runner-Up**
 - 🎖️ **SIH 2025 National Qualifier** — Rank 54, BU internal round
 - 📜 DSA and ML with Python (Infosys Springboard) · Modern Database Systems (Saylor Academy)
